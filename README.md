@@ -13,23 +13,24 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 DESCRIPTION: This project is a Power BI Sales Dashboard created to analyze sales performance using interactive visualizations. The dashboard provides insights into sales, profit, orders, quantity sold, regional performance, and product category analysis.
 
-Tools Used
-Power BI
-Microsoft Excel
-Key Features
+Tools Used: 
+Power BI, Microsoft Excel
+
+Key Features: 
 Total Sales, Profit, Orders, and Quantity KPIs
 Sales analysis by product and category
 Region-wise sales distribution
 Monthly sales and profit trends
 State-wise profit visualization using maps
 Interactive filters for category, region, and date
-Insights
+
+Insights: 
 Electronics generated the highest profit.
 East region contributed the most sales.
 Pens and mobiles were top-selling products.
 Sales trends declined after March 2024.
-Conclusion
 
+Conclusion: 
 This dashboard helps businesses track performance, identify trends, and make data-driven decisions using visual analytics.
 
 # Screenshots
